@@ -1,6 +1,5 @@
-   
-[Node커뮤니티](https://nodejs.github.io/nodejs-ko/articles/2017/11/07/release-v8.9.1/)
-   
+### [Node커뮤니티](https://nodejs.github.io/nodejs-ko/articles/2017/11/07/release-v8.9.1/)
+
 # Primary goal  
 ![screensh](./img/ndoe.PNG)  
 
@@ -11,4 +10,4 @@ learn
 
 tools
 - - -
-[deepscan debugger](https://deepscan.io/home/)  
+1. [deepscan debugger](https://deepscan.io/home/)  
