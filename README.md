@@ -6,11 +6,11 @@
 ### learn
 - - -
 
-* #### javascript
+>* #### javascript
 >1. [Startup JavaScript - 프로그래밍 기초(1~6)](https://www.slideshare.net/circulus_official/1startup-javascript)  
 >2. [javascript_to_node.js](https://www.slideshare.net/circulus_official/1startup-javascript)
 
-* #### node.js
+>* #### node.js
 >1. [한글 블로그](http://blog.naver.com/agilesoft/220981582724)  
 >2. https://www.nodebeginner.org/index-kr.html  
 
