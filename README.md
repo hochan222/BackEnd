@@ -3,16 +3,16 @@
 
 # Primary goal  
 
-###### learn
+#### learn
 - - -
 1. [한글 블로그](http://blog.naver.com/agilesoft/220981582724)  
 2. https://www.nodebeginner.org/index-kr.html  
 
-###### tools
+#### tools
 - - -
 1. [deepscan debugger](https://deepscan.io/home/)  
 
-###### 잡info
+#### 잡info
 - - - 
 1. [totu블로그](http://totuworld.github.io/)  
 1. [카카오톡(봇)_node.js](https://cheese10yun.github.io/kakao-bot-node/)  
