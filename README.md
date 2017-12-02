@@ -11,3 +11,7 @@ learn
 tools
 - - -
 1. [deepscan debugger](https://deepscan.io/home/)  
+
+잡info
+- - - 
+[totu블로그](http://totuworld.github.io/)
