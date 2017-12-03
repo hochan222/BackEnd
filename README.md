@@ -6,6 +6,8 @@
 
 ### learn
 - - -
+> * 웹   
+>> 1. [생활코딩](https://opentutorials.org/course/1)
 
 >* #### javascript
 >1. [Startup JavaScript - 프로그래밍 기초(1~6)](https://www.slideshare.net/circulus_official/1startup-javascript)  
