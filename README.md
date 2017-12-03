@@ -16,6 +16,9 @@
 >2. https://www.nodebeginner.org/index-kr.html  
 >3. [조대협_node.js](http://bcho.tistory.com/tag/node.js)  
 
+>* #### 동영상
+>1. [Node.js_firebase](https://www.youtube.com/playlist?list=PLmdU__e_zPf8lxSK7SS1O4BaH43PlS-Ru)  
+
 ### tools
 - - -
 1. [deepscan debugger](https://deepscan.io/home/)  
