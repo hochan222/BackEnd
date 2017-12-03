@@ -41,7 +41,7 @@
 - - -
 
 # PHP  
-![screensh](./img/ndoe.PNG)  
+![screensh](./img/php.PNG)  
 
 ### Learn
 - - -
