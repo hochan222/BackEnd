@@ -41,7 +41,9 @@
 ### model
 - - -
 [국내 택배 배송 추적 라이브러리](https://flosdor.github.io/delibee/)  
-[publy](https://publy.co/) 
+[publy](https://publy.co/)  
+> https://www.rocketpunch.com/jobs/32994/%ED%92%80%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B2%BD%EB%A0%A5-2%EB%85%84-%EC%9D%B4%EB%82%B4  
+
 
 - - -
 - - -
