@@ -21,7 +21,8 @@
 >3. [조대협_node.js](http://bcho.tistory.com/tag/node.js)  
 >4. [<Z> zerocho](https://www.zerocho.com/category/NodeJS?page=2)
   >> (HTML,CSS,JAVASCRIPT,JQUERY,ECMASCRIPT,REACT,NODE.JS,ALGORITHM,MONGODB,GIT,WEBPACK)  
-  
+>5.[aws blog](https://cheese10yun.github.io/Node-AWS-Nginx/)  
+
 >* #### typescript  
 >1. [typescript 선택이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)  
 
