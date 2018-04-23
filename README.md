@@ -13,6 +13,7 @@ https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9  -2
 * #### learn
 1. https://legacy.gitbook.com/book/basarat/typescript/details - TypeScript Deep Dive(gitbook)  
 2. http://slides.com/woongjae/typescript-basic#/1/2 -한글슬라이드  
+2018-04-23_type - http://slides.com/woongjae/typescript-basic#/5/17  
 
 * #### tool  
 1. https://codepen.io/chriscoyier/pen/XbjXXW -codepen  
