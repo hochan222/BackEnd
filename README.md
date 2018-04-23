@@ -10,7 +10,11 @@ https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9  -2
 1. [TypeScript를 무서워하지 않아도 되는 이유_2016_06_09](http://han41858.tistory.com/14)  
 2.
 
-![screensh](./img/ndoe.PNG)  
+* #### learn
+1. https://legacy.gitbook.com/book/basarat/typescript/details - TypeScript Deep Dive(gitbook)  
+
+
+![screensh](./img/ndoe.PNG)  
 ### [Node커뮤니티](https://nodejs.github.io/nodejs-ko/articles/2017/11/07/release-v8.9.1/)  
 
 # Primary goal  
