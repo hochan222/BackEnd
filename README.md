@@ -4,6 +4,10 @@ https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9  -2
 
 ![screensh](./img/backend-roadmap.png)  
 
+### [Typescript 진행사항](https://www.typescriptlang.org/)  
+- - -
+
+
 ![screensh](./img/ndoe.PNG)  
 ### [Node커뮤니티](https://nodejs.github.io/nodejs-ko/articles/2017/11/07/release-v8.9.1/)  
 
