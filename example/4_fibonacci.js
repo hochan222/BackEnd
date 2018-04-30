@@ -1,4 +1,4 @@
-﻿<script>
+
 function fibonacci(num) {  
   if(num === 0){
   	return 0; 
@@ -13,4 +13,3 @@ function fibonacci(num) {
 console.log(fibonacci(3));
 console.log(fibonacci(4));
 console.log(fibonacci(10));
-</script>
